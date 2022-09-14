@@ -1,1 +1,1 @@
-# sdk-Python-OCI-Object-Storage
+# OCI SDK Python - Object-Storage
