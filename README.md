@@ -10,7 +10,8 @@ In this example, We will see important methods used in OCI SDK Python for read, 
 
 3. In the OCI Console in your tenant you must have the bucket created
 ![image](https://user-images.githubusercontent.com/68925714/190236830-9806cf66-0b87-4542-a509-2c364e0d4854.png)
-   The bucket can have files in the root or in sub-folders:
+   
+   The bucket can have files in the root or in the sub-folders:
 ![image](https://user-images.githubusercontent.com/68925714/190237032-05b71299-5147-47a8-a2a9-514c2a11cdd9.png)
 ![image](https://user-images.githubusercontent.com/68925714/190237109-636fdc71-4ef4-4518-b324-19975efc1411.png)
 
