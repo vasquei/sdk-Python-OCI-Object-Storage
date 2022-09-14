@@ -28,7 +28,4 @@ In this example, We will see important methods used in OCI SDK Python for read, 
      
      
      
-
-**OCI SDK Example working with OCI Object Storage**
-1. In this example you will find 
    
