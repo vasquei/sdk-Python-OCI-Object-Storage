@@ -23,6 +23,8 @@ In this example, We will see important methods used in OCI SDK Python for read, 
       https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/cliinstall.htm
       
    Once OCI Cli is installed, you must be able to execute CLI commands and access your tenant's services.
+   
+   "Please save the path of the configuration file created in the oci cli installation, it will be required in the example OCI SDK Python Object Storage"
      
 7. Finally install OCI SDK for Python
      https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/pythonsdk.htm
