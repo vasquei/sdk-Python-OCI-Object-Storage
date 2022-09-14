@@ -1,5 +1,5 @@
 # OCI SDK Python - Object-Storage
-In this example, We will see important methods used in OCI SDK Python for read, write, upload, download  files from a bucket root or bucket folders path.
+In this example, We will see important methods used in OCI SDK Python for read, write, upload, download  files in a bucket root or bucket folders path.
 
 **Prerequisites:**
 1. You must create a user with privileges in OCI Console
